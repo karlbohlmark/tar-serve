@@ -1,0 +1,22 @@
+{
+  "name": "tar-serve",
+  "version": "0.0.0",
+  "description": "ERROR: No README.md file found!",
+  "main": "index.js",
+  "dependencies": {
+    "http-proxy": "~0.8.7",
+    "tar-index": "0.0.1",
+    "send": "~0.1.0",
+    "request": "~2.12.0",
+    "tar-entries": "~0.0.2",
+    "superagent": "~0.12.1",
+    "tar": "~0.1.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD"
+}
